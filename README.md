@@ -110,10 +110,10 @@
 
 ## 🚀 <span style="color:#00FFFF">Featured Project</span>
 
-🗂️ [BossM TODO GUI App](https://github.com/Mark31-dev/BossMDev-todo-gui)  
-A full-featured Python tkinter-based task manager with live widgets.
+🗂️ [Tikog Leaf Classification App](https://github.com/Franzeeee/tikog-leaf-classification)  
+A Flutter application for classifying standard and substandard tikog leaves, powered by a custom-designed CNN model architecture to enhance classification accuracy.
 
-[![](https://img.shields.io/github/stars/Mark31-dev/BossMDev-todo-gui?style=social)](https://github.com/Mark31-dev/BossMDev-todo-gui/stargazers)
+
 
 ---
 
