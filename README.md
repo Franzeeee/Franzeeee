@@ -93,7 +93,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mark31-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Franzeeee&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
@@ -101,7 +101,7 @@
 ## 🔝 Top Contributed Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Mark31-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Franzeeee&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -109,7 +109,7 @@
 ### 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mark31-dev&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Franzeeee&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -124,6 +124,6 @@ A full-featured Python tkinter-based task manager with animated README, installe
 ---
 
 <p align="center">
-  © 2025 <strong>BossM</strong>. All rights reserved. <br>
+  © 2025 <strong>Franz</strong>. All rights reserved. <br>
   <em>Unauthorized copying or reuse of this README is strictly prohibited.</em>
 </p>
