@@ -12,14 +12,14 @@
 
 <!-- 💖 GitHub Sponsor -->
 <p align="center">
-  <a href="https://github.com/sponsors/Mark31-dev">
+  <a href="https://github.com/sponsors/Franzeeee">
     <img src="https://img.shields.io/badge/Sponsor-Franze-E4405F?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
 </p>
 
 ### 🧮 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mark31-dev&label=Profile+Views&color=brightgreen&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Franzeeee&label=Profile+Views&color=brightgreen&style=flat"/>
 </p>
 
 ---
