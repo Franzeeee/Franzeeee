@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=150&section=header&text=Welcome%20to%20Franz's%20Zone&fontColor=00FFFF&fontSize=28&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=150&section=header&text=Welcome%20to%20Franz's%20Github Profile&fontColor=00FFFF&fontSize=28&animation=twinkling" />
 </p>
 
 <!-- ✍️ Typing Effect -->
