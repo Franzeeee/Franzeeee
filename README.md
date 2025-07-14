@@ -7,7 +7,7 @@
 
 <!-- ✍️ Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=900&lines=Hi+there%2C+I'm+Franz+%F0%9F%91%8B;Full-Stack+Developer+%7C+Web%2C+API%2C+Laravel;C%23+%7C+JS%2FTS+%7C+Flutter+%7C+PHP+%7C+ReactJS+%7C+VB.NET+%7C+JAVA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=900&lines=Hi+there%2C+I'm+Franz+%F0%9F%91%8B;Full-Stack+Developer+%7C+Web%2C+API%2C+Laravel;+%7C+JS%2FTS+%7C+Flutter+%7C+PHP+%7C+ReactJS+%7C+VB.NET+%7C+JAVA" alt="Typing SVG" />
 </h1>
 
 <!-- 💖 GitHub Sponsor -->
