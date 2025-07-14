@@ -1,4 +1,9 @@
-<!-- GitHub Profile README: Mark31-dev -->
+<!-- 🌟 GitHub Profile README: Franzeeee -->
+
+<!-- 📸 Your Photo on Top -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/105028589?s=400&u=bd7a1f90ac1e5d33e1061e71d9e5bde9fe3e85e9&v=4" width="120" height="120" style="border-radius: 50%" alt="Franz Profile Photo" />
+</p>
 
 <!-- 🌐 Custom Glitch Header Banner -->
 <p align="center">
@@ -13,7 +18,7 @@
 <!-- 💖 GitHub Sponsor -->
 <p align="center">
   <a href="https://github.com/sponsors/Franzeeee">
-    <img src="https://img.shields.io/badge/Sponsor-Franze-E4405F?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+    <img src="https://img.shields.io/badge/Sponsor-Franz-E4405F?style=for-the-badge&logo=githubsponsors&logoColor=white" />
   </a>
 </p>
 
@@ -28,35 +33,31 @@
 
 <div align="center">
 
-<!-- Animated Skill Icons with Tooltip -->
 <p align="center">
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
-  <img title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>&nbsp;
-  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
-  <img title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
-  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
   <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>&nbsp;
-  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>&nbsp;
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
   <img title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>&nbsp;
   <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>&nbsp;
-  <img title="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>&nbsp;
-  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>&nbsp;
+  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>&nbsp;
+  <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>&nbsp;
+  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp;
+  <img title="TailwindCSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
 </p>
 
-<!-- Tech Table Like Jester -->
 <table align="center">
   <tr>
     <th>🖥️ Backend</th>
     <th>🌐 Web Frameworks</th>
     <th>🎨 Frontend</th>
-    <th>🖼 GUI</th>
+    <th>📱 GUI</th>
   </tr>
   <tr>
     <td>Laravel, PHP, Java, VB.NET</td>
     <td>Laravel, Express.js, Node.js, React, Vue</td>
-    <td>React, Next.js, JavaScript, Tailwind, Bootstrap, Laravel Blade, Vue, React</td>
+    <td>React, Next.js, JS/TS, Tailwind, Bootstrap, Blade, Vue</td>
     <td>Flutter</td>
   </tr>
 </table>
@@ -86,7 +87,21 @@
 
 ## 📊 GitHub Stats
 
-<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Franzeeee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff" width="320px" /> </td> <td> <img src="https://streak-stats.demolab.com?user=Mark31-dev&theme=dark&hide_border=false&ring=00ffff&currStreakLabel=00ffff" width="320px" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franzeeee&layout=compact&theme=dark&hide_border=false&langs_count=6&title_color=00ffff&text_color=ffffff" width="320px" /> </td> </tr> </table> </div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Franzeeee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff" width="320px" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=Franzeeee&theme=dark&hide_border=false&ring=00ffff&currStreakLabel=00ffff" width="320px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franzeeee&layout=compact&theme=dark&hide_border=false&langs_count=6&title_color=00ffff&text_color=ffffff" width="320px" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
