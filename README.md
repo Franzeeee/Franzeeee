@@ -86,7 +86,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Mark31-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff" width="320px" /> </td> <td> <img src="https://streak-stats.demolab.com?user=Mark31-dev&theme=dark&hide_border=false&ring=00ffff&currStreakLabel=00ffff" width="320px" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark31-dev&layout=compact&theme=dark&hide_border=false&langs_count=6&title_color=00ffff&text_color=ffffff" width="320px" /> </td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=Franzeeee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00ffff&text_color=ffffff" width="320px" /> </td> <td> <img src="https://streak-stats.demolab.com?user=Mark31-dev&theme=dark&hide_border=false&ring=00ffff&currStreakLabel=00ffff" width="320px" /> </td> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franzeeee&layout=compact&theme=dark&hide_border=false&langs_count=6&title_color=00ffff&text_color=ffffff" width="320px" /> </td> </tr> </table> </div>
 
 ---
 
