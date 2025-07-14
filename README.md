@@ -77,25 +77,6 @@
 
 ---
 
-## 📬 <span style="color:#00FFFF">Contact & Socials</span>
-
-<p align="center">
-  <a href="mailto:diazfranzpeter@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/Franzeeee">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://facebook.com/FranzPeterDiaz012">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🏆 <span style="color:#39FF14">GitHub Trophies & Activity</span>
 
 <p align="center">
@@ -113,6 +94,23 @@
 🗂️ [Tikog Leaf Classification App](https://github.com/Franzeeee/tikog-leaf-classification)  
 A Flutter application for classifying standard and substandard tikog leaves, powered by a custom-designed CNN model architecture to enhance classification accuracy.
 
+---
 
+## 📬 <span style="color:#00FFFF">Contact & Socials</span>
+
+<p align="center">
+  <a href="mailto:diazfranzpeter@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/Franzeeee">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://facebook.com/FranzPeterDiaz012">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
