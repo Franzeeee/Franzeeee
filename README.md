@@ -2,7 +2,7 @@
 
 <!-- 📸 Photo + Welcome Banner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/105028589?s=400&u=bd7a1f90ac1e5d33e1061e71d9e5bde9fe3e85e9&v=4" width="120" height="120" style="border-radius: 50%" alt="Franz Photo" />
+  <img src="https://avatars.githubusercontent.com/u/105028589?s=400&u=bd7a1f90ac1e5d33e1061e71d9e5bde9fe3e85e9&v=4" width="120" height="120" style="border-radius: 100%" alt="Franz Photo" />
 </p>
 
 <p align="center">
