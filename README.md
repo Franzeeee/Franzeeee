@@ -116,8 +116,3 @@ A Flutter application for classifying standard and substandard tikog leaves, pow
 
 
 ---
-
-<p align="center">
-  © 2025 <strong style="color:#39FF14">Franz</strong>. All rights reserved. <br>
-  <em>Unauthorized copying or reuse of this README is strictly prohibited.</em>
-</p>
